@@ -21,7 +21,8 @@
 - In the direction of **"Software of computer equipment and automated systems"**
 - I'm currently learning **C#, Backend**
 - At the moment I am studying **ASP.NET Core**
-- I wrote cross-platform **Android/iOS/Web** applications on **Dart/Flutter**. Worked with **Hive** and a bit with **Firebase**.
+- I wrote cross-platform **Android/iOS/Web** applications on **Dart/Flutter**. Worked with **Hive**, **Firebase**, **Google Cloud**, **Google Play Console**.
+- Co-founder of **Hvala**.
 
 ### Languages and tools
 <div id="tools" align="left">
