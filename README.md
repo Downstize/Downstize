@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Vyacheslav</h1>
-    <h3>Backend Developer from Moscow</h3>
+    <h3>Backend Developer C# / .NET from Moscow</h3>
 </div>
 
 <div id="links" align="center">
@@ -16,13 +16,12 @@
 </div>
 
 ### About me
-- I'm a student of **RUT MIIT**
-- Department of **"Digital Technologies of Transport Process Management"**
-- In the direction of **"Software of computer equipment and automated systems"**
-- I'm currently learning **C#, Backend**
-- At the moment I am studying **ASP.NET Core**
-- I wrote cross-platform **Android/iOS/Web** applications on **Dart/Flutter**. Worked with **Hive**, **Firebase**, **Google Cloud**, **Google Play Console**.
-- Co-founder of **Hvala**.
+- I graduated from RUT MIIT, Department of "Digital Technologies of Transport Process Management", in the direction of "Software of computer equipment and automated systems".
+- Now I work mainly as a backend developer in C# / .NET: I build server-side services on ASP.NET Core — design Web APIs, work with databases (MS SQL Server, PostgreSQL, Entity Framework Core), handle caching and service reliability.
+- I set up caching (IMemoryCache / Redis / HybridCache) and health checks, work with RabbitMQ for messaging between services, and use Docker and Git day to day.
+- I like getting to the real cause instead of patching symptoms — I've dug into version conflicts in transitive dependencies, floating DB connection errors, and subtle bugs in deduplication logic.
+- On the mobile side, I wrote cross-platform Android / iOS / Web apps in Dart / Flutter, working with Hive, Firebase, Google Cloud and the Google Play Console.
+- Co-founder of Hvala.
 
 ### Languages and tools
 <div id="tools" align="left">
